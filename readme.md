@@ -13,5 +13,5 @@ When not working on IT projects, I love to explore my passion for learning by re
 I also love to teach, mentor, or provide guidance to others; a task that requires patience and people management skills. I need no supervision having been a self-starter entrepreneur and team leader that earned the trust and confidence of clients for many years.
 
 * [Contact Me](https://www.linkedin.com/in/opeyemi-okuboyejo/)  
-* [Website](opeyemitechpro.github.io)
+* [Website](https://opeyemitechpro.github.io)
 * [GitHub](https://github.com/opeyemitechpro)
