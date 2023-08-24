@@ -6,7 +6,10 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
 
 
+- 🎯 My Portfolio website: [Portfolio](https://opeyemitechpro.github.io/)
+- 📬 I'm reachable on LinkedIn: [Reach Opeyemi On LinkedIn][linkedin]
 
+ 
 I am an AWS Certified Solutions Architect with competence, confidence, and credibility with practical cloud skills in AWS Cloud technology, across a wide range of AWS services. Using architectural design principles, I have the ability to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
 
 I have extensive experience in Microsoft technologies, servers, PCs, and other technology solutions from leading hardware and software vendors; I'm a Microsoft-certified Professional and have successfully implemented Microsoft and other business solutions for medium to large-scale organizations. 
@@ -27,3 +30,7 @@ I also love to teach, mentor, or provide guidance to others; a task that require
 * [Contact Me](https://www.linkedin.com/in/opeyemi-okuboyejo/)  
 * [Website](https://opeyemitechpro.github.io)
 * [GitHub](https://github.com/opeyemitechpro)
+
+
+<!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/opeyemi-okuboyejo 
