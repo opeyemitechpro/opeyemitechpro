@@ -1,6 +1,10 @@
 ![](https://media.licdn.com/dms/image/D5616AQHX5zdQDr1Nbw/profile-displaybackgroundimage-shrink_350_1400/0/1686151153700?e=1697068800&v=beta&t=AQ94fdzl8IIzI32CqpIzF7F9c-s9ALFeCFOEnDqKX08)
 
 # Opeyemi Okuboyejo
+[![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+[![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
+
+
 
 I am an AWS Certified Solutions Architect with competence, confidence, and credibility with practical cloud skills in AWS Cloud technology, across a wide range of AWS services. Using architectural design principles, I have the ability to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
 
