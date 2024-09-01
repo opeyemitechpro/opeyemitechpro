@@ -1,9 +1,17 @@
 ![](https://media.licdn.com/dms/image/D5616AQHX5zdQDr1Nbw/profile-displaybackgroundimage-shrink_350_1400/0/1686151153700?e=1697068800&v=beta&t=AQ94fdzl8IIzI32CqpIzF7F9c-s9ALFeCFOEnDqKX08)
 
 # Opeyemi Okuboyejo
+
 [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
 [![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Projects-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects)
+
+![Followers](https://img.shields.io/github/followers/opeyemitechpro)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)]
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 
 - 🎯 My Portfolio website: [Portfolio](https://opeyemitechpro.github.io/)
