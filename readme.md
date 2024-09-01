@@ -21,11 +21,8 @@ When not working on IT projects, I love to explore my passion for learning by re
 I also love to teach, mentor, or provide guidance to others; a task that requires patience and people management skills. I need no supervision having been a self-starter entrepreneur and team leader that earned the trust and confidence of clients for many years.
 
 ### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/opeyemitechpro" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=opeyemitechpro&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
+
+![Opeyemi Okuboyejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=opeyemitechpro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&include_all_commits=true&show_owner=true)
 
 * [Contact Me](https://www.linkedin.com/in/opeyemi-okuboyejo/)  
 * [Website](https://opeyemitechpro.github.io)
