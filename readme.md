@@ -8,7 +8,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Projects-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects)
 
 ![Followers](https://img.shields.io/github/followers/opeyemitechpro)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)]
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
