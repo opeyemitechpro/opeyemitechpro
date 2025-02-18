@@ -63,9 +63,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 
 
-[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-blue?style=flat)](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV)
-
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat)](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y)
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-blue?style=flat)](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV) [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat)](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y)
 
 ---
 
